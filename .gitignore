@@ -1,0 +1,10 @@
+node_modules
+codeTable.md
+
+
+# 包
+pnpm-lock.yaml
+
+
+# 环境变量
+.env
